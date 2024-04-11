@@ -1,11 +1,11 @@
 /*
-   New Perspectives on HTML5 and CSS3, 7th Edition
+   New Perspectives on HTML5 and CSS3, 8th Edition
    Tutorial 9
    Case Problem 2
 
    Today at the Union Script
-   Author: Hesbon Osoro
-   Date: 12/10/22  
+   Author: Nathaniel T. Aglio
+   Date: 4/11/2024  
    
    This script uses the getEvent() function to return the
    HTML code containin the daily events at the Bridger College
